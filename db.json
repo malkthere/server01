@@ -1,12 +1,12 @@
 {
-  "album": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "user": "Dr. Mazin Mohamed"
       },
     {
       "id": 2,
-      "title": "2ndhello"
+      "user": "Rafef Mazin"
       }
   ],
   "profile": {
