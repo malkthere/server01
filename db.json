@@ -1,17 +1,11 @@
-[
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "quidem molestiae enim"
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "sunt qui excepturi placeat culpa"
-  },
+{
+  "posts": [
     {
-    "userId": 10,
-    "id": 100,
-    "title": "enim repellat iste"
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
